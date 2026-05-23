@@ -1,5 +1,7 @@
 # AlterEgo Anti-Detect Browser
 
+<img width="906" height="463" alt="image" src="https://github.com/user-attachments/assets/d27a6a05-015f-4c7f-9666-87e0fba00215" />
+
 AlterEgo is a lightweight, simple yet powerful anti-detect browser built with Go (`go-rod`) designed for seamless multi-accounting and basic fingerprint spoofing.
 
 ## Features
