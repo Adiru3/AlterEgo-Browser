@@ -45,3 +45,11 @@ AlterEgo abandons heavy UI libraries in favor of a hybrid approach:
 ## Disclaimer
 
 This project is for educational and research purposes only.
+
+## ❤️ Support & Donation
+
+If you find this project useful and would like to support its development, you can donate here:
+
+👉 **[Donate Link](https://adiru3.github.io/Donate/)**
+
+---
